@@ -1,2 +1,2 @@
 # hybrid
-day 26
+day 27
