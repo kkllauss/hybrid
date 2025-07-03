@@ -1,2 +1,2 @@
 # hybrid
-day 95
+day 96
